@@ -8,8 +8,8 @@ This repository contains a [NeverEndingStory.swift](https://github.com/username/
 
 | Responsibility | Description                               | Guideline                      | Rationale                                                                    |
 | ---             | ---                                       | ---                                  | ---                                                                         |
-| Grammar & Spelling | **Ensure impeccable grammar and orthography**. Update any incorrect words or phrases (i.e., spelling errors, miscapitalizations, etc.) | If English isn't your native language, consider utilizing an editorial tool like Grammarly. Remember, accurate word choice enhances clarity and comprehension.                                     |
-| Consistency   | **Adapt tone and syntax smoothly**. Keep the existing tense unless there is a compelling reason to change it. Be mindful not to introduce abrupt styles or inconsistencies. Adhere to past simple or present perfect as appropriate. | Maintaining consistency ensures a seamless reading experience since varying voices can detract from the overall narrative unity.                                                           |
-| Originality   | **Introduce fresh thoughts devoid of plagiarism**. Adopt unique perspectives while maintaining cohesion with existing plot lines; avoid repurposing preexisting concepts found elsewhere. Harness personal imagination and foster original story elements. A well-rounded cast of characters promoting diversity expands your audience's interest.
+| Grammar & Spelling | **Make sure grammer is correct**. Update any incorrect words or phrases (i.e., spelling errors, miscapitalizations, etc.) | If English isn't your native language, consider using AI                                     |
+| Consistency   | **Adapt tone and syntax smoothly**. Keep the existing tense unless there is a compelling reason to change it. | Maintaining consistency makes for a better reading experience.                                                           |
+| Originality   | **Introduce fresh thoughts**. Be original but stick to the plot lines.
 
-***Feel free to add use ChatGPT or another AI to add to the story. As long as it adheres to the guidelines above.
+**Feel free to add use ChatGPT or another AI to add to the story. As long as it adheres to the guidelines above.**
