@@ -1,5 +1,4 @@
 # 📜 Welcome to the Never Ending Story!
-## Introduction
 
 This repository contains a [NeverEndingStory.swift](https://github.com/username/NeverEndingStory/blob/main/NeverEndingStory.swift) file that represents the start of an unfinished tale. The goal is for contributors to keep appending sentences to this file, creating a **collaborative work of fiction** that continually evolves over time. To take part in molding the storyline, simply clone the repository, edit the NeverEndingStory.swift file with your input, generate a pull request, and wait for confirmation. When modifying content, please observe these directives:
 
