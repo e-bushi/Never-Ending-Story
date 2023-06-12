@@ -6,7 +6,7 @@ This repository contains a [NeverEndingStory.swift](https://github.com/username/
 
 ## Submission Directives
 
-| Responsibility | Description                               | Guideline                      | Rationale                                                             |
+| Responsibility | Description                               | Guideline                      |                                                             |
 | ---             | ---                                       | ---                                  | ---                                                                        |
 | Grammar & Spelling | **Make sure grammer is correct**. Update any incorrect words or phrases (i.e., spelling errors, miscapitalizations, etc.) | If English isn't your native language, consider using AI                                     |
 | Consistency   | **Adapt tone and syntax smoothly**. Keep the existing tense unless there is a compelling reason to change it. | Maintaining consistency makes for a better reading experience.                                                           |
